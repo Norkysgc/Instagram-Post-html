@@ -1,0 +1,67 @@
+body {
+	background: black;
+	
+}
+
+.post {
+	background: white;
+	width: 400px;
+	height: auto;
+	margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width:"40px";
+    height:"30px";
+    padding-top: 10px;
+}
+.header-name {
+    padding-top: none;
+    font-size: smaller;
+}
+
+.header-dots {
+    margin-left: 65%;
+    margin-top: 20px;
+   padding-right: 0%;
+    
+}
+.image {
+
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+}
+.button1 {
+   margin-left: 8px;
+    margin-right: 4px;
+    margin-top: 4px;
+}
+.button2 {
+    margin: 4px;
+}
+.button3 {
+    margin: 4px;
+}
+.button4 {
+   margin-top: 4px;
+    margin-left: 75%;
+}
+
+.liked {
+    margin-left: 8px;
+}
+
+.text {
+    margin: 8px;
+}
